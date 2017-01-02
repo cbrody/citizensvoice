@@ -1,0 +1,21 @@
+Received: (qmail 30621 invoked by alias); 9 Jul 2016 05:45:33 +0100
+Delivered-To: anonymous@vps2511.eukhost.com
+Received: (qmail 30613 invoked for bounce); 9 Jul 2016 05:45:33 +0100
+Date: 9 Jul 2016 05:45:33 +0100
+From: MAILER-DAEMON@vps2511.eukhost.com
+To: anonymous@vps2511.eukhost.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at vps2511.eukhost.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<solidsupp0rt24x7@gmail.com>:
+74.125.206.26 failed after I sent the message.
+Remote host said: 550-5.7.1 [158.255.43.13] The IP address sending this message does not have a
+550-5.7.1 PTR record setup. As a policy, Gmail does not accept messages from
+550-5.7.1 IPs with missing PTR records. Please visit
+550-5.7.1  https://support.google.com/mail/answer/81126#authentication for more
+550 5.7.1 information. n15si1023032wjw.185 - gsmtp
+
+--- Below this line is a copy of the message.
