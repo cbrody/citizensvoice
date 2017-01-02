@@ -388,7 +388,7 @@ form {
 /*
  * Define consistent margin, and padding
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003403}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003402}}
 fieldset {
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em;
@@ -399,7 +399,7 @@ fieldset {
  * 2. Corrects text not wrapping in FF3
  * 3. Corrects alignment displayed oddly in IE6/7
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003413}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003412}}
 legend {
   border: 0;
   padding: 0;
@@ -412,7 +412,7 @@ legend {
  * 2. Addresses margins set differently in IE6/7, FF3+, S5, Chrome
  * 3. Improves appearance and consistency in all browsers
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003426}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003425}}
 button,
 input,
 select,
@@ -426,7 +426,7 @@ textarea {
 /*
  * Addresses FF3/4 setting line-height on 'input' using !important in the UA stylesheet
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003440}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003439}}
 button,
 input {
   line-height: normal;
@@ -439,7 +439,7 @@ input {
  * 3. Removes inner spacing in IE7 without affecting normal text inputs
  *    Known issue: inner spacing remains in IE6
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003452}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003451}}
 button,
 input[type="button"],
 input[type="reset"],
@@ -452,7 +452,7 @@ input[type="submit"] {
 /*
  * Re-set default cursor for disabled elements
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003465}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003464}}
 button[disabled],
 input[disabled] {
   cursor: default;
@@ -464,7 +464,7 @@ input[disabled] {
  * 3. Removes excess padding in IE7
  *    Known issue: excess padding remains in IE6
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003477}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003476}}
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -477,7 +477,7 @@ input[type="radio"] {
  * 1. Addresses appearance set to searchfield in S5, Chrome
  * 2. Addresses box-sizing set to border-box in S5, Chrome (include -moz to future-proof)
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003490}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003489}}
 input[type="search"] {
   -webkit-appearance: textfield;
   -moz-box-sizing: content-box;
@@ -488,7 +488,7 @@ input[type="search"] {
 /*
  * Removes inner padding and search cancel button in S5, Chrome on OS X
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003501}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003500}}
 input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-cancel-button {
   -webkit-appearance: none;
@@ -498,7 +498,7 @@ input[type="search"]::-webkit-search-cancel-button {
  * Removes inner padding and border in FF3+
  * www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003511}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003510}}
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
@@ -509,14 +509,14 @@ input::-moz-focus-inner {
  * 1. Removes default vertical scrollbar in IE6/7/8/9
  * 2. Improves readability and alignment in all browsers
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003522}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003521}}
 textarea {
   overflow: auto;
   vertical-align: top;
 }
 
 /* Date fields */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003529}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003528}}
 .container-inline-date .form-item, .container-inline-date .form-item input {
   max-width: 20em;
 }
@@ -527,7 +527,7 @@ textarea {
 /*
  * 1. Remove most spacing between table cells
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003541}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003540}}
 table {
   border: 1px solid;
   border-spacing: 0;
@@ -544,7 +544,7 @@ table {
  * see Extensions > Modify Output > Design
  * $gutter-width is set in _base.scss
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003559}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003558}}
 #main-content,
 .block-inner,
 .pane-inner,
@@ -565,7 +565,7 @@ div.messages,
  * Panel pages need negative margin equal to the gutter width applied to #content,
  * this is taken care of in theme settings as per above for normal gutters
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003579}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003578}}
 #content .panel-display,
 #content .panel-flexible {
   margin-left: -10px;
@@ -582,14 +582,14 @@ div.messages,
  *   the "dissappering images" bug in IE8.
  * - Mapping services such as Google Maps may break also, see below for fixes.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003598}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003597}}
 img {
   height: auto;
   -ms-interpolation-mode: bicubic;
 }
 
 /* Ethan Marcotte - http://front.ie/l8rJaA */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003605}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003604}}
 img,
 embed,
 object,
@@ -598,7 +598,7 @@ video {
 }
 
 /* Disable flexiblity for IE8 and below */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003614}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003613}}
 .lt-ie9 img,
 .lt-ie9 object,
 .lt-ie9 embed,
@@ -607,7 +607,7 @@ video {
 }
 
 /* Override max-width 100% for map displays */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003623}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003622}}
 #map img,
 .gmap img,
 .view-gmap img,
@@ -625,7 +625,7 @@ video {
     Misc helpers, Accessibility classes etc
    ========================================================================== */
 /* Prevent overflowing content */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003642}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003641}}
 header[role=banner],
 .content-inner,
 .nav,
@@ -647,7 +647,7 @@ header[role=banner],
  * Kellum Method: http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement
  * Additional helpers from http://html5boilerplate.com/docs/css/
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003665}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003664}}
 .ir {
   /* Kellum Method */
   display: block !important;
@@ -667,7 +667,7 @@ header[role=banner],
 }
 
 /* More robust element-invisible and element-focuable classes */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003685}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003684}}
 .element-invisible {
   border: 0;
   clip: rect(1px 1px 1px 1px);
@@ -680,7 +680,7 @@ header[role=banner],
   width: 1px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003697}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003696}}
 .element-invisible.element-focusable:active,
 .element-invisible.element-focusable:focus {
   clip: auto;
@@ -691,7 +691,7 @@ header[role=banner],
 }
 
 /* Shift content offscreen, can be usefull when you reall need to do this */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003708}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003707}}
 .offscreen {
   position: absolute;
   top: -99999em;
@@ -702,7 +702,7 @@ header[role=banner],
 }
 
 /* Hide content from all users */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003719}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/chris\/Sites\/citizensvoice\/docroot\/sites\/all\/themes\/cv\/sass\/global\.base\.scss}line{font-family:\00003718}}
 .element-hidden {
   display: none;
 }
